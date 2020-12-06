@@ -8,7 +8,7 @@ This is two extension for registering a callback for an Activity Result. as [dev
 
 ```java
 startActivityResult(intent) { result ->
-            resultFortest(result)
+    resultFortest(result)
 }
 ```
 or
